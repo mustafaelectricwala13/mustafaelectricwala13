@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0e17,50:101d36,100:0a0e17&height=180&section=header&text=Mustafa%20Electricwala&fontSize=42&fontAlignY=42&fontColor=38bdf8" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24&height=220&section=header&text=Mustafa%20Electricwala&fontSize=44&fontAlignY=36&animation=twinkling" width="100%"/>
 
   <!-- Typing SVG Animation -->
   <a href="https://github.com/mustafaelectricwala13">
@@ -149,5 +149,5 @@
 
 <div align="center">
   <!-- Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0e17,50:101d36,100:0a0e17&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,24&height=120&section=footer" width="100%"/>
 </div>
